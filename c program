@@ -1,2 +1,3 @@
 //c program header
 iostream
+namespace std
