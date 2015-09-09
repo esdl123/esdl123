@@ -1,7 +1,8 @@
 //c program header
 iostream
 using namespace std
-int main()
+int main()    //main function
 {
+int a, b;
 return 0;
 }
